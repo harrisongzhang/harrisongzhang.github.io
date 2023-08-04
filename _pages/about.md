@@ -16,5 +16,5 @@ Harrison obtained a BA in Biology and Statistics at Columbia University, where h
 
 He is originally from Philadelphia, Pennsylvania and loves oil painting, dogs, trying new cuisines, and staying up-to-date with international affairs.  
 
-![Logo](SUSig_White_Seal_Stacked_Left.png)
+![Logo](SUSig_Seal_StnfrdOnly_Left.png)
 
