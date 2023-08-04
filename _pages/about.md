@@ -17,5 +17,4 @@ Harrison obtained a BA in Biology and Statistics at Columbia University, where h
 He is originally from Philadelphia, Pennsylvania and loves oil painting, dogs, trying new cuisines, and staying up-to-date with international affairs.  
 
 
-![alt text](https://github.com/harrisongzhang/harrisongzhang.github.io/blob/master/images/BioHeadshot.jpeg)
-
+![Stanford Logo](/harrisongzhang.github.io/images/SUSig_White_Seal_Stacked_Left.png)
